@@ -1,0 +1,15 @@
+{
+  "name": "8-encoding",
+  "author": "NaughtySora <naughtysora@proton.me>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "exports": "./main.js",
+  "description": "base-8 floating-point encoding",
+  "keywords": [
+    "encoding"
+  ],
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "c8": "^9.1.0"
+  }
+}
